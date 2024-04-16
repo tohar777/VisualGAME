@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VisualGame MenuPRJ", "VisualGame MenuPRJ.vbproj", "{7F936D4E-8572-4D8D-A61D-6535B7FF9155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F936D4E-8572-4D8D-A61D-6535B7FF9155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F936D4E-8572-4D8D-A61D-6535B7FF9155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F936D4E-8572-4D8D-A61D-6535B7FF9155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F936D4E-8572-4D8D-A61D-6535B7FF9155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BAD9E8E-E7F7-4687-9D88-9A675211A435}
+	EndGlobalSection
+EndGlobal
